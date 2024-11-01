@@ -27,7 +27,7 @@ A straightforward desktop application for downloading YouTube videos and audio. 
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/invader276/simple-youtube-downloader.git
+   git clone https://github.com/w11-z/simple-youtube-downloader.git
    cd simple-youtube-downloader
    ```
 
